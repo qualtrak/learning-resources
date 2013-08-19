@@ -2,6 +2,7 @@
 
 * [http://www.angularjs.org]
 * 1.2.0-rc1 [http://blog.angularjs.org/2013/08/angularjs-120-rc1-spooky-giraffe.html?m=1]
+* Testing - [http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.htm]
 
 # azure
 
