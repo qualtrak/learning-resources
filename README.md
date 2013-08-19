@@ -46,5 +46,6 @@
 
 # karma
 
+* wiki on how to configure WebStorm to work with karma, jasmine and coffeescript - [https://github.com/qualtrak/learning-resources/wiki/Configure-Webstorm-for-Karma]
 * Configure Webstorm - blog [http://blog.jdriven.com/2013/05/integrating-karma-testacular-test-runner-in-webstorm-idea/]
 * Configure Webstorm - video [http://www.youtube.com/watch?v=MVw8N3hTfCI&feature=youtube_gdata_player]
