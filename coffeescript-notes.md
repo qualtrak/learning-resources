@@ -1,7 +1,6 @@
-
 # CoffeeScript notes
 
-> To act as an aide memoir and to help explain to others why particular things work (or do not work) I have compiled a list of my coffeescript learnings.
+> To act as an aide-mémoire and to help explain to others why particular things work (or do not work) I have compiled a list of my coffeescript learnings.
 
 ## Class properties and instance properties
 
