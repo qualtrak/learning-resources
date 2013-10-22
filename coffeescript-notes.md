@@ -173,3 +173,12 @@ describe "Timeout suite", ->
 ```
 
 > In the sample above a callback `restartCallback` - is called after a specific amount of time.  I know that 2+ seconds is enough time to wait and that the callback should have been called by then.  The `restartCallback` assigns `true` to the variable `restartFlag`.  It is this variable's value I am evaluating in the assertion. 
+
+### Testing files with dependency
+There are situations where a number of tests may depend on other files, the way to reference these files is:
+(This solution refers to coffeescript with Visual Studio and chutzpah as test runner.)
+
+
+	###
+	/// <reference path="../code/calculator.coffee" / >
+	###
